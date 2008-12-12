@@ -1,0 +1,36 @@
+The contents of this revision controlled document repository are a computer
+source code implementation of TRACTORGEN, being a model of ASCII tractor
+mechanics.
+
+It is recommended that one study these documents closely in order to better
+understand the finer details of the subject at hand. The authors firmly
+believe that only through such preparation, preferably during the course of
+one's daily study regimen, can a deeper appreciation of the theory be
+attained.
+
+As a side note, it has been noted by correspondents that it is possible to
+derive a computer readable binary executable from these documents through
+the use of sophisticated compiler technology. On the off chance that any
+readers would wish to pursue this path, we include the apparent preparation
+for doing so herein, as quoted:
+
+$ automake -a
+$ autoreconf
+
+Upon completion of this procedure, which we expect should take on the
+order of one to two weeks (of course the actual time depends on the
+staffing resources of your local computer centre), a new document shall
+be generated _as though from nought!_ [emphasis added]. The name of
+this document is expected to be "configure", and it may itself be
+executed thus:
+
+$ ./configure
+
+We recommend scheduling a vacation!
+
+Upon your return, type "make", "make install", and prepare your
+experimental apparati forthwith:
+
+$ tractorgen
+
+Generates ASCII tractors.
