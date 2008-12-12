@@ -28,7 +28,7 @@ $ ./configure
 
 We recommend scheduling a vacation!
 
-Upon your return, type "make", "make install", and prepare your
+Upon your return, type "make", then "make install", and prepare your
 experimental apparati forthwith:
 
 $ tractorgen
