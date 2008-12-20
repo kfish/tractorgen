@@ -19,6 +19,7 @@
  */
 
 #include <stdio.h>
+#include <stdlib.h>
 
 int
 tractorgen (int nr_wheels)
@@ -63,4 +64,5 @@ main (int argc, char **argv)
   }
 
   tractorgen(nr_wheels);
+  return 0;
 }
