@@ -2,3 +2,4 @@
 
 SUBDIRS = src
 
+man_MANS = tractorgen.6
