@@ -3,3 +3,5 @@
 SUBDIRS = src
 
 dist_man_MANS = tractorgen.6
+
+EXTRA_DIST = README.markdown
