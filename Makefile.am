@@ -2,4 +2,4 @@
 
 SUBDIRS = src
 
-man_MANS = tractorgen.6
+dist_man_MANS = tractorgen.6
